@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Vatankhah Barenji
-- 👀 I’m interested in Blockchain, Data visulization and simulation 
-- 🌱 I’m currently learning AI & ML
+- 👀 I’m interested in Data driven decision making, Data visulization and simulation 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
